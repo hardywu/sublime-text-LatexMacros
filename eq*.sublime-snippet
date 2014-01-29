@@ -1,0 +1,13 @@
+<snippet>
+  <description>equation*</description>
+  <content>
+\begin{eqnarray*}
+  ${1:&} 
+\end{eqnarray*}
+  </content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <!-- <tabTrigger>hello</tabTrigger> -->
+  <tabTrigger>eq*</tabTrigger>
+  <scope>text.tex.latex</scope>
+</snippet>
+
